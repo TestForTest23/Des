@@ -1,5 +1,21 @@
 p {
   padding: 20px;
+
   background-color: palevioletred;
   color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+div {
+  background-color: plum;
+  padding: 5px;
+  color: white;
+}
+ul {
+  list-style: disc;
+}
+
+li {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
